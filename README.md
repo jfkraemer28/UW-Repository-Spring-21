@@ -20,6 +20,7 @@ Complete the following steps.
 
     #* What are your career goals?#
 	--My career goals are to stay in the *financial sector*, notably on the buyside with a specialiaztion in fintech here in the Seattle area.
+	![Bank](https://www.usbank.com/dam/images/newsroom/stories/The_importance_of_financial_literacy_for_a_secure_future.jpg)
 
     #* Why did you choose FinTech as a career path?#
 	--I choose *FinTech* as a career path because it is a growing sector within finance and demonstrates the possibilities and importance of technology.
