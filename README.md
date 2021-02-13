@@ -16,7 +16,7 @@ Complete the following steps.
 
     #* Who are you? What is your background?#
 	--My name is *John-Francis Kraemer*.  I have a background in finance and have recently relocated to the Seattle area from Chicago.
-	![Chicago](https://images.app.goo.gl/yuNipfbVehHWGPv99)
+	![Chicago](https://media.timeout.com/images/105649106/750/422/image.jpg)
 
     #* What are your career goals?#
 	--My career goals are to stay in the *financial sector*, notably on the buyside with a specialiaztion in fintech here in the Seattle area.
