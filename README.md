@@ -15,14 +15,14 @@ Complete the following steps.
 1. Modify the intiialized `README.md` file by inserting a quick introduction about yourself:
 
     #* Who are you? What is your background?#
-	My name is *John-Francis Kraemer*.  I have a background in finance and have recently relocated to the Seattle area from Chicago.
+	##My name is *John-Francis Kraemer*.  I have a background in finance and have recently relocated to the Seattle area from Chicago.##
 	![]()https://images.app.goo.gl/yuNipfbVehHWGPv99
 
     #* What are your career goals?#
-	My career goals are to stay in the *financial sector*, notably on the buyside with a specialiaztion in fintech here in the Seattle area.
+	##My career goals are to stay in the *financial sector*, notably on the buyside with a specialiaztion in fintech here in the Seattle area.##
 
     #* Why did you choose FinTech as a career path?#
-	I choose *FinTech* as a career path because it is a growing sector within finance and demonstrates the possibilities and importance of technology.
+	##I choose *FinTech* as a career path because it is a growing sector within finance and demonstrates the possibilities and importance of technology.##
 
 1. Update the `README.md` file in your online GitHub repository.
 
