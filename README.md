@@ -1,4 +1,4 @@
-# UW-Repository-Spring-21# Create and Personalize a GitHub Repository
+# Create and Personalize a GitHub Repository
 
 In this activity, you will create a GitHub repository to hold future work assets that can be showcased to potential employers.
 
