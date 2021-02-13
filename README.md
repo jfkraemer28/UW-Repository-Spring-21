@@ -23,6 +23,7 @@ Complete the following steps.
 
     #* Why did you choose FinTech as a career path?#
 	--I choose *FinTech* as a career path because it is a growing sector within finance and demonstrates the possibilities and importance of technology.
+	![Fintech](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2020/08/getty_what_is_fintech_080220pm_jpg_yvtZYBW2.jpg)
 
 1. Update the `README.md` file in your online GitHub repository.
 
